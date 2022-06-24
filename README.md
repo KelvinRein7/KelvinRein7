@@ -8,8 +8,9 @@
 #### :compass: Can reach me at...
   
 <div align="left">
-  <a href = "mailto:khunthurein10.tgi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/khunthurein77ca" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:khunthurein10.tgi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/khunthurein77ca" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <hr style="width:50%;text-align:left;margin-left:0">
 </div>
 
