@@ -29,7 +29,7 @@
 
 <div align="left">
   <a href="https://github.com/kelvinrein7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinrein7&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?KelvinRein7=anuraghazra&theme=dark&show_icons=true"/>
   
 </div>
   
