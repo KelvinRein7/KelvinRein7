@@ -27,9 +27,8 @@
 
 #### :chart_with_upwards_trend: Stats...
 
-<!-- <div align="left">
+<div align="left">
   <a href="https://github.com/kelvinrein7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?KelvinRein7=anuraghazra&theme=dark&show_icons=true"/>
-  
-</div> -->
+</div>
   
